@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-svelte-plugin",
+  "name": "Obsidian Svelte Plugin Template",
+  "description": "Template",
+  "author": "wis",
+  "authorUrl": "https://github.com/project-writers",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "isDesktopOnly": false
+}
